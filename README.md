@@ -1,2 +1,2 @@
 # dmesg
-- https://shunykel.github.io/dmesg/
+- https://morishita-sh.github.io/dmesg/
